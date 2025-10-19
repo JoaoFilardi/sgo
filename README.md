@@ -37,7 +37,7 @@ Abaixo estão os diagramas solicitados no trabalho:
 
 ### 📌 Diagrama de Pacotes
 
-<img width="500px" src="https://github.com/JoaoFilardi/SEU_REPOSITORIO/blob/main/sgo/imagens/Diagrama%20Pacotes%20SGO.png"/>
+<img width="500px" src="https://github.com/JoaoFilardi/blob/main/sgo/imagens/Diagrama%20Pacotes%20SGO.png"/>
 
 ---
 
