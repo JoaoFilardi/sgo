@@ -31,7 +31,8 @@ Abaixo estão os diagramas solicitados no trabalho:
 
 ### 📌 Diagrama de Caso de Uso
 
-<img width="500px" src="https://github.com/JoaoFilardi/sgo/imagens/Caso%20de%20Uso%20SGO.png"/>
+<img width="500px" src="[https://github.com/JoaoFilardi/sgo/imagens/Caso%20de%20Uso%20SGO.png](https://raw.githubusercontent.com/JoaoFilardi/sgo/main/imagens/Caso%20de%20Uso%20SGO.png
+)"/>
 
 ---
 
