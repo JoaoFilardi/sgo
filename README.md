@@ -59,20 +59,6 @@ Abaixo estão os diagramas solicitados no trabalho:
 
 ---
 
-## ✅ Estrutura de Pastas (sugerida)
-
-sgo/
-├── imagens/
-│ ├── Caso de Uso SGO.png
-│ ├── Diagrama Pacotes SGO.png
-│ ├── Diagrama de Classes - SGO.png
-│ ├── Diagrama Componentes SGO.png
-│ └── Diagrama de Implantacao SGO.png
-├── modelagens/ (arquivos .drawio ou .astah)
-└── README.md
-
----
-
 ## ✅ Regras de Negócio Importantes
 
 - Um local **não pode** ter duas competições no mesmo horário.
