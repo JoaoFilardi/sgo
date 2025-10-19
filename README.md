@@ -30,33 +30,27 @@ Abaixo estão os diagramas solicitados no trabalho:
 ---
 
 ### 📌 Diagrama de Caso de Uso
-
-<img width="500px" src="[https://github.com/JoaoFilardi/sgo/imagens/Caso%20de%20Uso%20SGO.png](https://raw.githubusercontent.com/JoaoFilardi/sgo/main/imagens/Caso%20de%20Uso%20SGO.png
-)"/>
+<img width="500px" src="https://raw.githubusercontent.com/JoaoFilardi/sgo/main/imagens/caso-de-uso-sgo.png"/>
 
 ---
 
 ### 📌 Diagrama de Pacotes
-
-<img width="500px" src="https://github.com/JoaoFilardi/blob/main/sgo/imagens/Diagrama%20Pacotes%20SGO.png"/>
+<img width="500px" src="https://raw.githubusercontent.com/JoaoFilardi/sgo/main/imagens/diagrama-pacotes-sgo.png"/>
 
 ---
 
 ### 📌 Diagrama de Classes
-
-<img width="500px" src="https://github.com/JoaoFilardi/SEU_REPOSITORIO/blob/main/sgo/imagens/Diagrama%20de%20Classes%20-%20SGO.png"/>
+<img width="500px" src="https://raw.githubusercontent.com/JoaoFilardi/sgo/main/imagens/diagrama-classes-sgo.png"/>
 
 ---
 
 ### 📌 Diagrama de Componentes
-
-<img width="500px" src="https://github.com/JoaoFilardi/SEU_REPOSITORIO/blob/main/sgo/imagens/Diagrama%20Componentes%20SGO.png"/>
+<img width="500px" src="https://raw.githubusercontent.com/JoaoFilardi/sgo/main/imagens/diagrama-componentes-sgo.png"/>
 
 ---
 
 ### 📌 Diagrama de Implantação
-
-<img width="500px" src="https://github.com/JoaoFilardi/SEU_REPOSITORIO/blob/main/sgo/imagens/Diagrama%20de%20Implantacao%20SGO.png"/>
+<img width="500px" src="https://raw.githubusercontent.com/JoaoFilardi/sgo/main/imagens/diagrama-implantacao-sgo.png"/>
 
 ---
 
@@ -80,15 +74,3 @@ Abaixo estão os diagramas solicitados no trabalho:
 
 ## ✅ Autores / Equipe
 Projeto desenvolvido para a disciplina **Projeto de Software**.
-
----
-
-✅ Pronto! Todas as exigências do trabalho foram atendidas:
-✔ Histórias de usuário  
-✔ Exibição das imagens do repositório  
-✔ Estrutura organizada  
-✔ Linguagem clara e objetiva (sem enrolação)
-
-Se quiser, posso **colocar o link real do repositório (substituindo SEU_REPOSITORIO)** para já ficar 100% funcional. Me diga seu repositório completo (ex: `JoaoFilardi/projeto-sgo`) e atualizo pra você!
-
-
